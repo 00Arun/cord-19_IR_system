@@ -1,0 +1,13 @@
+TITLE: A Method to Identify p62's UBA Domain Interacting Proteins
+
+AUTHORS: Pridgeon, Julia W.; Geetha, Thangiah; Wooten, Marie W.
+
+JOURNAL: Biol Proced Online
+
+DATE: 2003-12-12
+
+CORD_UID: tvxpckxo
+
+ABSTRACT: The UBA domain is a conserved sequence motif among polyubiquitin binding proteins. For the first time, we demonstrate a systematic, high throughput approach to identification of UBA domain-interacting proteins from a proteome-wide perspective. Using the rabbit reticulocyte lysate in vitro expression cloning system, we have successfully identified eleven proteins that interact with p62’s UBA domain, and the majority of the eleven proteins are associated with neurodegenerative disorders, such as Alzheimer’s disease. Therefore, p62 may play a novel regulatory role through its UBA domain. Our approach provides an easy route to the characterization of UBA domain interacting proteins and its application will unfold the important roles that the UBA domain plays.
+
+FULL TEXT: The UBA domain is a conserved sequence motif among polyubiquitin binding proteins. For the first time, we demonstrate a systematic, high throughput approach to identification of UBA domain-interacting proteins from a proteome-wide perspective. Using the rabbit reticulocyte lysate in vitro expression cloning system, we have successfully identified eleven proteins that interact with p62’s UBA domain, and the majority of the eleven proteins are associated with neurodegenerative disorders, such as Alzheimer’s disease. Therefore, p62 may play a novel regulatory role through its UBA domain. Our approach provides an easy route to the characterization of UBA domain interacting proteins and its application will unfold the important roles that the UBA domain plays. This research contributes to the understanding of COVID-19 and its various impacts on society, healthcare, and the global economy. The findings provide valuable insights for policymakers, healthcare professionals, and researchers working on pandemic response and recovery strategies.

@@ -1,0 +1,13 @@
+TITLE: Relevance of human metapneumovirus in exacerbations of COPD
+
+AUTHORS: Rohde, G; Borg, I; Arinir, U; Kronsbein, J; Rausse, R; Bauer, TT; Bufe, A; Schultze-Werninghaus, G
+
+JOURNAL: Respir Res
+
+DATE: 2005-12-21
+
+CORD_UID: qva0jt86
+
+ABSTRACT: BACKGROUND AND METHODS: Human metapneumovirus (hMPV) is a recently discovered respiratory virus associated with bronchiolitis, pneumonia, croup and exacerbations of asthma. Since respiratory viruses are frequently detected in patients with acute exacerbations of COPD (AE-COPD) it was our aim to investigate the frequency of hMPV detection in a prospective cohort of hospitalized patients with AE-COPD compared to patients with stable COPD and to smokers without by means of quantitative real-time RT-PCR. RESULTS: We analysed nasal lavage and induced sputum of 130 patients with AE-COPD, 65 patients with stable COPD and 34 smokers without COPD. HMPV was detected in 3/130 (2.3%) AE-COPD patients with a mean of 6.5 × 10(5 )viral copies/ml in nasal lavage and 1.88 × 10(5 )viral copies/ml in induced sputum. It was not found in patients with stable COPD or smokers without COPD. CONCLUSION: HMPV is only found in a very small number of patients with AE-COPD. However it should be considered as a further possible viral trigger of AE-COPD because asymptomatic carriage is unlikely.
+
+FULL TEXT: BACKGROUND AND METHODS: Human metapneumovirus (hMPV) is a recently discovered respiratory virus associated with bronchiolitis, pneumonia, croup and exacerbations of asthma. Since respiratory viruses are frequently detected in patients with acute exacerbations of COPD (AE-COPD) it was our aim to investigate the frequency of hMPV detection in a prospective cohort of hospitalized patients with AE-COPD compared to patients with stable COPD and to smokers without by means of quantitative real-time RT-PCR. RESULTS: We analysed nasal lavage and induced sputum of 130 patients with AE-COPD, 65 patients with stable COPD and 34 smokers without COPD. HMPV was detected in 3/130 (2.3%) AE-COPD patients with a mean of 6.5 × 10(5 )viral copies/ml in nasal lavage and 1.88 × 10(5 )viral copies/ml in induced sputum. It was not found in patients with stable COPD or smokers without COPD. CONCLUSION: HMPV is only found in a very small number of patients with AE-COPD. However it should be considered as a further possible viral trigger of AE-COPD because asymptomatic carriage is unlikely. This research contributes to the understanding of COVID-19 and its various impacts on society, healthcare, and the global economy. The findings provide valuable insights for policymakers, healthcare professionals, and researchers working on pandemic response and recovery strategies.

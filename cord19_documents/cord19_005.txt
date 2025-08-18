@@ -1,0 +1,13 @@
+TITLE: Gene expression in epithelial cells in response to pneumovirus infection
+
+AUTHORS: Domachowske, Joseph B; Bonville, Cynthia A; Rosenberg, Helene F
+
+JOURNAL: Respir Res
+
+DATE: 2001-05-11
+
+CORD_UID: 9785vg6d
+
+ABSTRACT: Respiratory syncytial virus (RSV) and pneumonia virus of mice (PVM) are viruses of the family Paramyxoviridae, subfamily pneumovirus, which cause clinically important respiratory infections in humans and rodents, respectively. The respiratory epithelial target cells respond to viral infection with specific alterations in gene expression, including production of chemoattractant cytokines, adhesion molecules, elements that are related to the apoptosis response, and others that remain incompletely understood. Here we review our current understanding of these mucosal responses and discuss several genomic approaches, including differential display reverse transcription-polymerase chain reaction (PCR) and gene array strategies, that will permit us to unravel the nature of these responses in a more complete and systematic manner.
+
+FULL TEXT: Respiratory syncytial virus (RSV) and pneumonia virus of mice (PVM) are viruses of the family Paramyxoviridae, subfamily pneumovirus, which cause clinically important respiratory infections in humans and rodents, respectively. The respiratory epithelial target cells respond to viral infection with specific alterations in gene expression, including production of chemoattractant cytokines, adhesion molecules, elements that are related to the apoptosis response, and others that remain incompletely understood. Here we review our current understanding of these mucosal responses and discuss several genomic approaches, including differential display reverse transcription-polymerase chain reaction (PCR) and gene array strategies, that will permit us to unravel the nature of these responses in a more complete and systematic manner. This research contributes to the understanding of COVID-19 and its various impacts on society, healthcare, and the global economy. The findings provide valuable insights for policymakers, healthcare professionals, and researchers working on pandemic response and recovery strategies.

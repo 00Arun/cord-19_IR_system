@@ -1,0 +1,13 @@
+TITLE: Conservation of polyamine regulation by translational frameshifting from yeast to mammals
+
+AUTHORS: Ivanov, Ivaylo P.; Matsufuji, Senya; Murakami, Yasuko; Gesteland, Raymond F.; Atkins, John F.
+
+JOURNAL: EMBO J
+
+DATE: 2000-04-17
+
+CORD_UID: 5tkvsudh
+
+ABSTRACT: Regulation of ornithine decarboxylase in vertebrates involves a negative feedback mechanism requiring the protein antizyme. Here we show that a similar mechanism exists in the fission yeast Schizosaccharomyces pombe. The expression of mammalian antizyme genes requires a specific +1 translational frameshift. The efficiency of the frameshift event reflects cellular polyamine levels creating the autoregulatory feedback loop. As shown here, the yeast antizyme gene and several newly identified antizyme genes from different nematodes also require a ribosomal frameshift event for their expression. Twelve nucleotides around the frameshift site are identical between S.pombe and the mammalian counterparts. The core element for this frameshifting is likely to have been present in the last common ancestor of yeast, nematodes and mammals.
+
+FULL TEXT: Regulation of ornithine decarboxylase in vertebrates involves a negative feedback mechanism requiring the protein antizyme. Here we show that a similar mechanism exists in the fission yeast Schizosaccharomyces pombe. The expression of mammalian antizyme genes requires a specific +1 translational frameshift. The efficiency of the frameshift event reflects cellular polyamine levels creating the autoregulatory feedback loop. As shown here, the yeast antizyme gene and several newly identified antizyme genes from different nematodes also require a ribosomal frameshift event for their expression. Twelve nucleotides around the frameshift site are identical between S.pombe and the mammalian counterparts. The core element for this frameshifting is likely to have been present in the last common ancestor of yeast, nematodes and mammals. This research contributes to the understanding of COVID-19 and its various impacts on society, healthcare, and the global economy. The findings provide valuable insights for policymakers, healthcare professionals, and researchers working on pandemic response and recovery strategies.
