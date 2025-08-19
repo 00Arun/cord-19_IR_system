@@ -174,7 +174,7 @@ curl -X POST http://localhost:5002/api/search/multi \
 ### Backend Configuration
 The system automatically detects and loads CORD-19 documents from the relative path:
 ```
-../../week 4/Assignment/cord19_documents/
+/cord19_documents/
 ```
 
 ### Frontend Configuration
