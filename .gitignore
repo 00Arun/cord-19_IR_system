@@ -9,6 +9,7 @@ yarn-error.log*
 /dist
 /.next/
 /out/
+frontend/.next/
 
 # Environment variables
 .env
@@ -69,3 +70,17 @@ instance/
 # Temporary files
 *.tmp
 *.temp
+
+# Keep important source files but exclude build artifacts
+!frontend/src/**/*
+!frontend/public/**/*
+!frontend/package.json
+!frontend/package-lock.json
+!frontend/tsconfig.json
+!frontend/next.config.ts
+!frontend/postcss.config.mjs
+!frontend/eslint.config.mjs
+!frontend/next-env.d.ts
+!frontend/README.md
+!backend/**/*.py
+!backend/**/*.txt
